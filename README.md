@@ -42,7 +42,7 @@ Installation and Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/travel-app.git
+git clone https://github.com/KamutamBhavani/TravelMateWithJDBc.git
 
 Navigate to the project directory:
 
